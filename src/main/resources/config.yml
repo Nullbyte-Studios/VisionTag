@@ -1,0 +1,4 @@
+prefix: "<dark_red>{{PLUGIN_NAME}} <red>| <reset>"
+
+# Do not change this!!
+config-version: 1

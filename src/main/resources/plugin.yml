@@ -1,0 +1,4 @@
+name: {{PLUGIN_NAME}}
+version: '{{VERSION}}'
+main: {{PACKAGE_NAME}}.{{MAIN_CLASS}}
+api-version: '1.21'
